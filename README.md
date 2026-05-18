@@ -32,10 +32,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+# 📊 GitHub Stack:
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Pratik-mondal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Pratik-mondal&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Pratik-mondal&theme=tokyonight&hide_border=false)
 
