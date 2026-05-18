@@ -36,7 +36,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=pratik-mondal&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=pratik-mondal&theme=tokyonight&hide_border=false)
+![](https://streak-stats.demolab.com?user=pratik-mondal&theme=tokyonight&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-mondal&theme=tokyonight&hide_border=false&layout=compact)
 
