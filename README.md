@@ -34,16 +34,16 @@
 ---
 # 📊 GitHub Stack:
 
-![](https://github-readme-stats.vercel.app/api?username=Pratik-mondal&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=pratik-mondal&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Pratik-mondal&theme=tokyonight&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=pratik-mondal&theme=tokyonight&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-mondal&theme=tokyonight&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-mondal&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pratik-mondal&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=pratik-mondal&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
